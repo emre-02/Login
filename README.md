@@ -21,7 +21,7 @@ This project was created with Html and CSS for the login form
 
 ### Links
 
-- [Solution URL]()
+- [Solution URL](https://github.com/emre-02/Login)
 
 
 ## My process
@@ -34,8 +34,7 @@ This project was created with Html and CSS for the login form
 
 
 
-- This project -  [
- Codehal] (https://www.youtube.com/@codehal) Inspired by the youtube channel
+- This project -  (https://www.youtube.com/@codehal) Inspired by the youtube channel
 
 
 ## Author
